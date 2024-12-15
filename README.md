@@ -1,2 +1,0 @@
-# Protein-Structure-Prediction
- 
