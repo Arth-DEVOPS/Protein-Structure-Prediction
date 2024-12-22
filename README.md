@@ -1,4 +1,4 @@
-# Group 2: Protein Secondary Structure Prediction
+# Protein Secondary Structure Prediction
 # Date: 12th December, 2024
 # Members: Arth Banka, Riti Bhatia, Sanchitha Kuthethoor, Sumeet Kothare
 
