@@ -1,6 +1,5 @@
 # Protein Secondary Structure Prediction
 # Date: 12th December, 2024
-# Members: Arth Banka, Riti Bhatia, Sanchitha Kuthethoor, Sumeet Kothare
 
 # Demo link: https://drive.google.com/file/d/1X8fdxQFILHfyiLvSTlYzYjZ6NzGQ1mI8/view?usp=drive_link 
 ## Folder Structure
